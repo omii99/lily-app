@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308578271198",
+    "project_id": "lily-date",
+    "storage_bucket": "lily-date.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308578271198:android:5740669ef72a3158ef674f",
+        "android_client_info": {
+          "package_name": "com.example.lily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308578271198-r1gdchpsjrlj6km9c8fr15t2fh3k8rtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjrW0eF6vobVE-s22IHJMZHrE5ciuL3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308578271198-r1gdchpsjrlj6km9c8fr15t2fh3k8rtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
