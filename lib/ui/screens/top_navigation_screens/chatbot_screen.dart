@@ -109,7 +109,7 @@ setState(() {
     // print(text);
 
     Message messages = Message(
-      name: 'Mandara',
+      name: 'User',
       text : text,
       isMyMessage : true,
     );
@@ -124,9 +124,9 @@ setState(() {
   @override
   Widget build(BuildContext context){
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("Sample Chatbot") ,
-        ),
+      // appBar: AppBar(
+      //   title: const Text("Sample Chatbot") ,
+      //   ),
         body: Column(
           children: <Widget>[
             Flexible(
